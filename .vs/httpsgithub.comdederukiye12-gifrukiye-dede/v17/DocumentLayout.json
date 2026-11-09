@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\dederukiye12-gif\\httpsgithub.comdederukiye12-gifrukiye-dede\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\armstrong.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\multiplesOf3 (1).c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\rotate.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "armstrong.c",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\armstrong.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\armstrong.c",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\armstrong.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\armstrong.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-09T13:34:34.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "multiplesOf3 (1).c",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\multiplesOf3 (1).c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\multiplesOf3 (1).c",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\multiplesOf3 (1).c",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\multiplesOf3 (1).c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-09T13:22:43.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rotate.c",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\rotate.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\rotate.c",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\rotate.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\rotate.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-09T13:19:48.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
